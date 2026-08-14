@@ -1,0 +1,1 @@
+This is a prototype banking system designed to simulate core financial operations, including user authentication, secure transactions, and account management. Built with scalability in mind, this project serves as a foundational blueprint for a secure, high-performance, and feature-rich digital banking platform in the future.
